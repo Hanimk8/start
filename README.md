@@ -4,6 +4,7 @@ git pull : to fetch all the data from branch
 git add filename: to add that file to stash (local)
 git commit -m "message": to commit that change in local
 git push
+git branch: creates new branch
 
 change done locally
 hani
