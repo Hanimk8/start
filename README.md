@@ -6,5 +6,7 @@ git commit -m "message": to commit that change in local
 git push
 git branch: creates new branch
 git branch -b "NewBranch":creates and switches to new branch
-change done locally
+
+
+change done locally again
 hani
